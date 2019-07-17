@@ -1,5 +1,5 @@
 {
-    "name": "neurosys/doctrine-datatables",
+    "name": "zorustech/doctrine-datatables",
     "description": "Library providing a Doctrine2 wrapper over Datatables.js",
     "type": "library",
     "license": "MIT",
